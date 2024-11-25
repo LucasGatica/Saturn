@@ -10,10 +10,8 @@
             padding: 0;
         }
         .title-page {
-            /* Dimensões da página */
             width: 100%;
             height: 100vh;
-            /* Centralização vertical e horizontal */
             display: table;
             text-align: center;
         }
@@ -31,18 +29,15 @@
             margin-top: 20px;
             color: #555;
         }
-        /* Resto dos estilos */
         p {
             text-align: justify;
             font-size: 12pt;
             line-height: 1.5;
             margin: 50px;
         }
-        /* Estilos para controlar as quebras de página */
         .page-break {
             page-break-after: always;
         }
-        /* Estilos para o conteúdo e capítulos */
         .content-page {
             margin: 50px;
         }
@@ -59,7 +54,34 @@
             margin-bottom: 5px;
             color: #555;
         }
-        /* Outros estilos conforme necessário */
+        .difficulty {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 10px 0;
+        }
+        .difficulty-text {
+            font-size: 12pt;
+            font-weight: bold;
+        }
+        .difficulty-balls {
+            display: flex;
+            gap: 5px;
+        }
+        .difficulty-balls span {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #ccc; /* Cinza para bolinhas padrão */
+        }
+        .difficulty-balls .filled {
+            background-color: #007BFF; /* Azul para bolinhas preenchidas */
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
     </style>
 </head>
 <body>
@@ -74,12 +96,26 @@
 <!-- Quebra de página após a primeira página -->
 <div class="page-break"></div>
 
-<!-- Segunda página: Conteúdo -->
+<!-- Segunda página: Sumário -->
 <div class="content-page">
-    <p>${conteudo}</p>
+    <h2>Sumário</h2>
+    <ul>
+        <#list conteudo.sumario as capituloTitulo>
+            <li>${capituloTitulo}</li>
+        </#list>
+    </ul>
 </div>
 
-<!-- Quebra de página após o conteúdo -->
+<!-- Quebra de página após o sumário -->
+<div class="page-break"></div>
+
+<!-- Página seguinte: Sobre o Livro -->
+<div class="content-page">
+    <h2>Sobre o Livro</h2>
+    <p>${conteudo.descricao}</p>
+</div>
+
+<!-- Quebra de página após "Sobre o Livro" -->
 <div class="page-break"></div>
 
 <!-- Páginas seguintes: Capitulos e Receitas -->
@@ -95,6 +131,20 @@
                     <p class="recipe-info">
                         Tempo de preparo: ${receita.tempo_preparo} | Porções: ${receita.porcoes}
                     </p>
+
+                    <!-- Exibir a dificuldade -->
+                    <div class="difficulty">
+                        <span class="difficulty-text">Dificuldade:</span>
+                        <div class="difficulty-balls">
+                            <#list 1..5 as i>
+                                <#if i <= receita.dificuldade>
+                                    <span class="filled"></span>
+                                <#else>
+                                    <span></span>
+                                </#if>
+                            </#list>
+                        </div>
+                    </div>
 
                     <div class="ingredients">
                         <p class="section-title">Ingredientes:</p>
