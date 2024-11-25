@@ -1,0 +1,20 @@
+{
+  "titulo": "Culinária Internacional: Sabores do Mundo",
+  "autor": "Chef Ana Pereira",
+  "conteudo": {
+    "descricao": "Este livro explora a diversidade da culinária internacional, trazendo receitas autênticas e deliciosas de diferentes países. Aprenda técnicas culinárias e descubra novos sabores que irão enriquecer suas habilidades na cozinha.",
+    "sumario": [
+      "Culinária Francesa",
+      "Culinária Italiana",
+      "Culinária Japonesa",
+      "Culinária Mexicana",
+      "Culinária Brasileira"
+    ]
+  },
+  "capitulos": [
+
+
+      ]
+    }
+  ]
+}

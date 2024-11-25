@@ -1,0 +1,1338 @@
+
+{
+  "titulo": "Sabores do Mundo",
+  "autor": "Ana Santos",
+  "conteudo": {
+    "descricao": "Este livro explora a incrível diversidade da culinária global, oferecendo uma experiência imersiva que vai além de simples receitas. Cada capítulo é uma janela para as tradições culturais e os sabores únicos de diferentes regiões do mundo, cuidadosamente selecionados e explicados pela renomada Chef Ana Santos. Com sua vasta experiência e paixão pela gastronomia, ela traz uma abordagem detalhada e acessível, garantindo que leitores de todos os níveis possam reproduzir pratos autênticos em suas próprias cozinhas. Além disso, a Chef Ana apresenta curiosidades sobre a história e os ingredientes de cada culinária, tornando este livro uma jornada de aprendizado e prazer culinário.",
+    "sumario": [
+      "Culinária Francesa: Elegância e sofisticação à mesa",
+      "Culinária Italiana: Tradições familiares e sabores aconchegantes",
+      "Culinária Japonesa: Harmonia, precisão e frescor",
+      "Culinária Mexicana: Cores vibrantes e sabores intensos",
+      "Culinária Brasileira: Diversidade cultural em cada prato",
+      "Culinária Tailandesa: Uma explosão de sabores exóticos",
+      "Culinária Indiana: Aromas intensos e especiarias cativantes",
+      "Culinária Chinesa: Equilíbrio entre tradição e inovação",
+      "Culinária Mediterrânea: Frescor e simplicidade com saúde",
+      "Culinária Árabe: Generosidade e riqueza em cada refeição",
+      "Culinária Africana: Tradição ancestral e ingredientes únicos",
+      "Culinária Americana: Da clássica à contemporânea, sabores marcantes"
+    ]
+  },
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Culinária Francesa",
+      "descricao": "A culinária francesa é amplamente considerada um dos pilares da gastronomia mundial, reconhecida por sua combinação de técnicas apuradas, ingredientes de alta qualidade e uma profunda ligação com a cultura e história da França. Neste capítulo, você será transportado para a elegância e sofisticação da mesa francesa, aprendendo não apenas a preparar pratos icônicos, mas também a compreender os rituais, tradições e o espírito por trás de cada receita. Ao explorar estas páginas, você descobrirá a importância da apresentação cuidadosa, a harmonização dos sabores e a precisão que tornam a culinária francesa uma verdadeira arte.",
+      "receitas": [
+        {
+          "titulo": "Coq au Vin",
+          "tempo_preparo": "2 horas e 30 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "1 frango inteiro cortado em pedaços (preferencialmente caipira para maior sabor)",
+            "200g de bacon em cubos",
+            "1 garrafa de vinho tinto seco de boa qualidade",
+            "2 cenouras fatiadas em rodelas finas",
+            "1 cebola média finamente picada",
+            "2 dentes de alho esmagados",
+            "200g de cogumelos frescos fatiados",
+            "1 colher de sopa de farinha de trigo",
+            "Tomilho fresco, louro, sal e pimenta-do-reino a gosto",
+            "2 colheres de sopa de azeite de oliva"
+          ],
+          "modo_preparo": "O Coq au Vin, um clássico da culinária francesa, remonta aos tempos rurais, quando o frango caipira era cozido lentamente no vinho para amaciar sua carne. Comece cortando o frango em pedaços médios, limpando-os bem e temperando com sal e pimenta. Aqueça uma panela grande e pesada em fogo médio e frite o bacon no azeite até que fique dourado e crocante. Retire o bacon da panela, mas deixe a gordura. Em seguida, doure os pedaços de frango na mesma gordura, selando cada lado para reter os sucos naturais. Reserve o frango. No mesmo recipiente, refogue a cebola e o alho até ficarem translúcidos. Acrescente as cenouras e mexa bem. Polvilhe a farinha de trigo sobre os vegetais, misturando até formar uma base levemente cremosa. Agora, despeje lentamente o vinho tinto, mexendo constantemente para evitar grumos. Adicione o tomilho, a folha de louro e devolva o frango e o bacon à panela. Abaixe o fogo, tampe e deixe cozinhar lentamente por cerca de 1 hora e 30 minutos. Nos últimos 15 minutos, adicione os cogumelos fatiados e mexa suavemente. Sirva o Coq au Vin com batatas cozidas ou pão rústico, garantindo que cada prato tenha uma generosa porção do molho rico e aromático."
+        },
+        {
+          "titulo": "Quiche Lorraine",
+          "tempo_preparo": "1 hora e 20 minutos",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 massa brisée pronta ou feita em casa",
+            "200g de bacon defumado cortado em cubos pequenos",
+            "4 ovos grandes",
+            "300ml de creme de leite fresco",
+            "100g de queijo gruyère ralado na hora",
+            "Pitada de noz-moscada ralada, sal e pimenta-do-reino a gosto"
+          ],
+          "modo_preparo": "A Quiche Lorraine é um símbolo da cozinha rústica da região da Alsácia-Lorena, e sua simplicidade é o que a torna especial. Preaqueça o forno a 180°C. Comece forrando uma forma redonda de fundo removível com a massa brisée, ajustando bem as bordas para que fiquem uniformes. Pique o bacon e leve-o a uma frigideira para fritar em fogo médio até que fique levemente dourado e crocante. Escorra o excesso de gordura e reserve. Em uma tigela grande, bata os ovos com o creme de leite fresco até obter uma mistura homogênea. Tempere com noz-moscada, uma pitada de sal (cuidado, pois o bacon e o queijo já são salgados) e pimenta. Espalhe o bacon frito uniformemente sobre a base de massa. Adicione o queijo gruyère, distribuindo bem para que cada fatia da quiche receba um pouco de sua textura cremosa. Despeje a mistura de ovos e creme sobre o recheio, cuidando para não ultrapassar o nível da borda da massa. Asse por aproximadamente 35-40 minutos, ou até que o topo esteja levemente dourado e o centro firme. Deixe esfriar por 10 minutos antes de desenformar e servir."
+        },
+        {
+          "titulo": "Soupe à l'Oignon (Sopa de Cebola)",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "4 cebolas grandes cortadas em fatias finas",
+            "50g de manteiga sem sal",
+            "1 colher de sopa de farinha de trigo",
+            "1 litro de caldo de carne (preferencialmente caseiro)",
+            "100ml de vinho branco seco",
+            "Fatias de pão francês torrado",
+            "100g de queijo gruyère ralado"
+          ],
+          "modo_preparo": "A Soupe à l'Oignon é uma receita clássica frequentemente associada a momentos de conforto e aconchego. Comece aquecendo a manteiga em uma panela grande, em fogo baixo, e adicione as cebolas fatiadas. Cozinhe-as lentamente, mexendo ocasionalmente, até que fiquem caramelizadas e com um tom dourado profundo, o que pode levar até 40 minutos. Polvilhe a farinha de trigo sobre as cebolas e misture bem, criando uma base levemente espessa. Em seguida, adicione o vinho branco, que irá desengordurar o fundo da panela, incorporando todo o sabor. Acrescente o caldo de carne, mexa e deixe a sopa ferver em fogo baixo por 20 minutos, permitindo que os sabores se intensifiquem. Para servir, despeje a sopa em tigelas resistentes ao calor, coloque uma fatia de pão torrado por cima e cubra generosamente com o queijo gruyère. Leve ao forno para gratinar até que o queijo derreta e forme uma crosta dourada. Sirva imediatamente e aproveite o calor reconfortante desta sopa icônica."
+        }
+
+      ]
+    }
+
+    ,
+
+    {
+      "numero": 2,
+      "titulo": "Culinária Italiana",
+      "descricao": "A culinária italiana é um verdadeiro emblema de amor, união e tradição. Cada prato conta uma história, seja de uma família reunida ao redor da mesa ou de uma receita passada de geração em geração. A simplicidade é a essência da gastronomia italiana: poucos ingredientes, sempre frescos e de alta qualidade, combinados com maestria para criar pratos que aquecem a alma e satisfazem o paladar. Neste capítulo, você será transportado para as regiões da Itália, explorando receitas clássicas que refletem o espírito acolhedor e apaixonado desta culinária mundialmente amada.",
+      "receitas": [
+        {
+          "titulo": "Spaghetti alla Carbonara",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "400g de espaguete",
+            "150g de guanciale (ou pancetta)",
+            "3 gemas de ovo",
+            "1 ovo inteiro",
+            "80g de queijo pecorino romano ralado",
+            "Sal e pimenta-do-reino a gosto"
+          ],
+          "modo_preparo": "A Carbonara é uma das receitas italianas mais icônicas, conhecida por sua cremosidade sem o uso de creme de leite. Comece cozinhando o espaguete em uma panela grande com água salgada até ficar al dente, seguindo as instruções da embalagem. Enquanto a massa cozinha, corte o guanciale em tiras finas e frite em uma frigideira grande, em fogo médio, até ficar dourado e crocante. Em uma tigela separada, bata as gemas e o ovo inteiro com o queijo ralado, temperando com uma pitada generosa de pimenta-do-reino moída na hora. Quando a massa estiver pronta, reserve uma xícara da água do cozimento e escorra o restante. Adicione o espaguete à frigideira com o guanciale, desligue o fogo e misture bem. Despeje a mistura de ovos e queijo sobre a massa quente, mexendo vigorosamente para criar um molho cremoso. Ajuste a textura com a água do cozimento reservada, se necessário. Sirva imediatamente, polvilhando mais queijo e pimenta, se desejar."
+        },
+        {
+          "titulo": "Risotto alla Milanese",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "350g de arroz arbóreo",
+            "1 cebola pequena picada",
+            "2 colheres de sopa de manteiga",
+            "100ml de vinho branco seco",
+            "1 litro de caldo de carne quente",
+            "0.5g de açafrão",
+            "50g de queijo parmesão ralado",
+            "Sal a gosto"
+          ],
+          "modo_preparo": "O Risotto alla Milanese é um prato rico e aromático, famoso por sua cor dourada dada pelo açafrão. Comece refogando a cebola na manteiga até que fique macia e translúcida. Acrescente o arroz arbóreo e mexa bem para envolvê-lo na manteiga. Em seguida, despeje o vinho branco e deixe evaporar enquanto mexe continuamente. Dissolva o açafrão em uma concha do caldo quente e adicione ao arroz. Continue cozinhando, adicionando o caldo uma concha de cada vez, sempre mexendo para liberar o amido e criar uma textura cremosa. Após cerca de 18 a 20 minutos, o arroz estará al dente e o risoto terá uma consistência aveludada. Finalize com queijo parmesão e uma colher de manteiga, mexendo bem. Sirva imediatamente, enquanto está quente e cremoso."
+        },
+        {
+          "titulo": "Lasagna alla Bolognese",
+          "tempo_preparo": "2 horas",
+          "porcoes": 6,
+          "dificuldade": 5,
+          "ingredientes": [
+            "500g de massa fresca para lasanha",
+            "500g de carne moída (mistura de boi e porco)",
+            "1 cenoura picada",
+            "1 talo de aipo picado",
+            "1 cebola picada",
+            "400g de tomate pelado",
+            "300ml de leite",
+            "300ml de molho bechamel",
+            "150g de queijo parmesão ralado",
+            "Azeite, sal e pimenta a gosto"
+          ],
+          "modo_preparo": "A Lasagna alla Bolognese é um prato robusto que combina camadas de sabor e texturas. Comece preparando o ragu: aqueça o azeite em uma panela grande e refogue a cebola, a cenoura e o aipo até ficarem macios. Adicione a carne moída e cozinhe até dourar. Acrescente os tomates pelados, tempere com sal e pimenta e cozinhe em fogo baixo por 1 hora, adicionando o leite aos poucos para suavizar o molho. Preaqueça o forno a 180°C. Em uma assadeira, comece a montar a lasanha: uma camada de ragu, uma de massa, seguida por molho bechamel e queijo parmesão. Repita o processo até finalizar com uma camada de queijo. Asse por 40 minutos ou até dourar. Deixe descansar por 10 minutos antes de servir."
+        },
+        {
+          "titulo": "Pizza Margherita",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "500g de farinha de trigo",
+            "300ml de água morna",
+            "10g de fermento biológico seco",
+            "10g de sal",
+            "10ml de azeite de oliva",
+            "200g de molho de tomate",
+            "250g de mussarela de búfala",
+            "Folhas de manjericão fresco"
+          ],
+          "modo_preparo": "A Pizza Margherita é uma celebração da simplicidade. Comece dissolvendo o fermento na água morna. Em uma tigela grande, misture a farinha, o sal e o azeite, incorporando a água com fermento até formar uma massa macia. Sove por 10 minutos até que fique elástica. Deixe crescer por 1 hora. Preaqueça o forno à temperatura máxima (cerca de 250°C). Divida a massa em bolas, abra em discos finos e transfira para uma assadeira ou pedra de pizza. Espalhe uma fina camada de molho de tomate, distribua a mussarela em pedaços e finalize com folhas de manjericão. Asse por 7 a 10 minutos até que a borda esteja dourada e o queijo derretido."
+        },
+        {
+          "titulo": "Tiramisu",
+          "tempo_preparo": "4 horas (incluindo resfriamento)",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "200g de biscoitos savoiardi (palitos de champanhe)",
+            "250g de mascarpone",
+            "3 ovos (separados em claras e gemas)",
+            "100g de açúcar",
+            "300ml de café forte",
+            "Cacau em pó para polvilhar"
+          ],
+          "modo_preparo": "O Tiramisu é uma sobremesa leve e clássica que combina o sabor do café com a cremosidade do mascarpone. Comece batendo as gemas com o açúcar até formar um creme claro e fofo. Acrescente o mascarpone e misture bem. Em outra tigela, bata as claras em neve até formar picos firmes e incorpore delicadamente ao creme de mascarpone. Mergulhe os biscoitos rapidamente no café e forme uma camada em um refratário. Cubra com uma camada do creme e repita o processo até terminar com o creme. Leve à geladeira por pelo menos 4 horas. Antes de servir, polvilhe cacau em pó por cima."
+        },
+        {
+          "titulo": "Bruschetta al Pomodoro",
+          "tempo_preparo": "15 minutos",
+          "porcoes": 4,
+          "dificuldade": 1,
+          "ingredientes": [
+            "8 fatias de pão italiano",
+            "4 tomates maduros picados",
+            "2 dentes de alho",
+            "Folhas de manjericão fresco",
+            "Azeite de oliva, sal e pimenta a gosto"
+          ],
+          "modo_preparo": "A Bruschetta al Pomodoro é uma entrada simples e deliciosa. Torre as fatias de pão em uma grelha ou forno. Enquanto isso, misture os tomates picados com manjericão, sal, pimenta e azeite em uma tigela. Esfregue um dente de alho em cada fatia de pão torrado para dar sabor. Cubra com a mistura de tomate e sirva imediatamente."
+        }
+      ]
+    }
+
+
+
+    ,
+
+    {
+      "numero": 3,
+      "titulo": "Culinária Japonesa",
+      "descricao": "A culinária japonesa é uma expressão de harmonia e respeito pela natureza. Caracterizada por sua precisão, estética delicada e frescor absoluto dos ingredientes, a gastronomia japonesa equilibra simplicidade e sofisticação. Cada prato é preparado com atenção aos detalhes, valorizando o sabor natural dos alimentos e promovendo um senso de equilíbrio. Neste capítulo, você será imerso nos sabores do Japão, explorando receitas que destacam técnicas ancestrais e a filosofia por trás de uma culinária que é, ao mesmo tempo, uma arte e um modo de vida.",
+      "receitas": [
+        {
+          "titulo": "Sushi de Salmão",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "2 xícaras de arroz japonês",
+            "2 e 1/2 xícaras de água",
+            "3 colheres de sopa de vinagre de arroz",
+            "2 colheres de sopa de açúcar",
+            "1 colher de chá de sal",
+            "200g de salmão fresco em tiras finas",
+            "Folhas de nori (alga seca)",
+            "Molho shoyu para servir"
+          ],
+          "modo_preparo": "Preparar sushi é um ritual que requer paciência e cuidado. Comece lavando o arroz japonês em água corrente até que a água saia limpa, removendo o excesso de amido. Cozinhe o arroz com a água em fogo baixo até que esteja macio. Em uma panela pequena, aqueça o vinagre de arroz, o açúcar e o sal até que o açúcar dissolva. Misture essa solução ao arroz cozido e deixe esfriar. Sobre uma esteira de bambu, coloque uma folha de nori com o lado brilhante para baixo. Espalhe uma camada fina de arroz sobre a alga, deixando uma borda livre na parte superior. Coloque tiras de salmão no centro e enrole cuidadosamente, pressionando para firmar. Corte em pedaços iguais e sirva com shoyu."
+        },
+        {
+          "titulo": "Tempura de Legumes",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 cenoura cortada em tiras",
+            "1 abobrinha em fatias finas",
+            "1 batata-doce em rodelas finas",
+            "1/2 xícara de farinha de trigo",
+            "1/2 xícara de água gelada",
+            "1 gema de ovo",
+            "Óleo vegetal para fritar",
+            "Molho tentsuyu para acompanhar"
+          ],
+          "modo_preparo": "Tempura é a personificação da leveza na culinária japonesa. Em uma tigela, misture a farinha de trigo, a água gelada e a gema de ovo, mexendo suavemente para formar uma massa levemente grumosa (isso ajuda a deixar a textura crocante). Aqueça o óleo em uma panela funda a 180°C. Passe os legumes cortados na massa e frite-os em pequenas porções até ficarem dourados e crocantes. Escorra em papel-toalha e sirva imediatamente com molho tentsuyu, que pode ser feito misturando shoyu, caldo dashi e mirin."
+        },
+        {
+          "titulo": "Miso Shiru (Sopa de Missô)",
+          "tempo_preparo": "20 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "4 xícaras de água",
+            "3 colheres de sopa de pasta de missô",
+            "1 pacote de tofu firme em cubos pequenos",
+            "2 colheres de sopa de cebolinha picada",
+            "1 folha de alga wakame reidratada"
+          ],
+          "modo_preparo": "A sopa de missô é uma base reconfortante e nutritiva da culinária japonesa. Comece aquecendo a água em uma panela até quase ferver. Adicione a pasta de missô, dissolvendo-a completamente no líquido quente. Acrescente o tofu cortado em cubos e a alga wakame reidratada. Cozinhe por 5 minutos em fogo baixo, para não ferver e preservar o sabor delicado do missô. Finalize com cebolinha picada e sirva quente."
+        },
+        {
+          "titulo": "Tonkatsu (Milanesa de Porco)",
+          "tempo_preparo": "45 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "4 bifes de lombo de porco",
+            "1/2 xícara de farinha de trigo",
+            "2 ovos batidos",
+            "1 xícara de farinha panko",
+            "Óleo vegetal para fritar",
+            "Molho tonkatsu para servir"
+          ],
+          "modo_preparo": "Tonkatsu é um prato clássico que combina simplicidade e sabor. Tempere os bifes de lombo de porco com sal e pimenta. Passe-os na farinha de trigo, depois nos ovos batidos e, por último, na farinha panko, pressionando bem para que fiquem completamente cobertos. Aqueça o óleo em uma frigideira funda a 180°C e frite os bifes até ficarem dourados e crocantes, cerca de 4 minutos de cada lado. Escorra em papel-toalha. Sirva com molho tonkatsu e uma salada de repolho ralado."
+        },
+        {
+          "titulo": "Yakisoba",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "300g de macarrão para yakisoba",
+            "150g de carne bovina em tiras",
+            "150g de frango em tiras",
+            "1 cenoura em rodelas finas",
+            "1 pimentão em tiras",
+            "1 cebola em fatias",
+            "1/4 de repolho picado",
+            "1/2 xícara de molho para yakisoba",
+            "Azeite para refogar"
+          ],
+          "modo_preparo": "O Yakisoba é um prato prático e delicioso que combina macarrão e vegetais frescos. Cozinhe o macarrão conforme as instruções da embalagem e reserve. Aqueça o azeite em uma frigideira grande ou wok e refogue as carnes até dourarem. Adicione os vegetais e refogue por 5 minutos, mantendo-os crocantes. Acrescente o macarrão e o molho de yakisoba, misturando bem. Cozinhe por mais 3 minutos e sirva quente."
+        },
+        {
+          "titulo": "Dorayaki",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 6",
+          "dificuldade": 3,
+          "ingredientes": [
+            "2 ovos",
+            "1/4 de xícara de açúcar",
+            "1 colher de sopa de mel",
+            "1/2 xícara de farinha de trigo",
+            "1/2 colher de chá de fermento em pó",
+            "1 colher de sopa de água",
+            "300g de doce de feijão azuki (anko)"
+          ],
+          "modo_preparo": "O Dorayaki é uma sobremesa japonesa tradicional que consiste em duas panquecas macias recheadas com anko. Bata os ovos com o açúcar e o mel até obter uma mistura clara e fofa. Acrescente a farinha de trigo e o fermento, misturando bem. Adicione a água para ajustar a consistência da massa. Aqueça uma frigideira antiaderente e despeje pequenas porções da massa, formando discos. Cozinhe até aparecerem bolhas na superfície e vire para dourar o outro lado. Recheie com anko, formando um sanduíche. Sirva em temperatura ambiente."
+        }
+      ]
+    }
+
+
+
+    ,
+
+
+    {
+      "numero": 4,
+      "titulo": "Culinária Mexicana",
+      "descricao": "A culinária mexicana é um espetáculo de cores vibrantes, sabores intensos e texturas únicas. Suas receitas refletem uma fusão de tradições indígenas e influências europeias, criando pratos que são ao mesmo tempo reconfortantes e ousados. Este capítulo explora a riqueza cultural e a paixão que definem a gastronomia do México, levando você a uma jornada de pratos apimentados, temperos aromáticos e ingredientes autênticos. Prepare-se para mergulhar no calor e na alegria que cada prato mexicano traz à mesa.",
+      "receitas": [
+        {
+          "titulo": "Tacos al Pastor",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "500g de carne de porco em fatias finas",
+            "2 colheres de sopa de pasta de achiote",
+            "1 xícara de suco de abacaxi",
+            "1 colher de chá de cominho em pó",
+            "1 colher de chá de orégano seco",
+            "1 cebola roxa picada",
+            "Coentro fresco picado",
+            "Tortillas de milho",
+            "Rodelas de abacaxi grelhado para servir"
+          ],
+          "modo_preparo": "Os Tacos al Pastor são uma homenagem à fusão cultural do México com o Oriente Médio, trazendo especiarias marcantes e um toque de doçura do abacaxi. Comece marinando as fatias de carne de porco com a pasta de achiote, suco de abacaxi, cominho e orégano por pelo menos 30 minutos. Grelhe as fatias de carne em uma frigideira quente ou chapa até dourarem e ficarem caramelizadas. Aqueça as tortillas de milho e recheie com a carne grelhada. Adicione cebola roxa, coentro fresco e rodelas de abacaxi grelhado. Sirva com limão para um toque cítrico."
+        },
+        {
+          "titulo": "Guacamole",
+          "tempo_preparo": "15 minutos",
+          "porcoes": 4,
+          "dificuldade": 1,
+          "ingredientes": [
+            "2 abacates maduros",
+            "1 tomate picado",
+            "1 cebola pequena picada",
+            "1 pimenta jalapeño picada (opcional)",
+            "Suco de 1 limão",
+            "Coentro fresco picado",
+            "Sal a gosto"
+          ],
+          "modo_preparo": "O Guacamole é uma receita simples e refrescante que celebra o sabor cremoso do abacate. Corte os abacates ao meio, retire o caroço e extraia a polpa com uma colher. Amasse levemente com um garfo, deixando uma textura rústica. Misture com o tomate, a cebola, a pimenta jalapeño, o suco de limão e o coentro. Tempere com sal a gosto e sirva imediatamente com tortillas ou como acompanhamento."
+        },
+        {
+          "titulo": "Chili con Carne",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "500g de carne moída",
+            "1 cebola grande picada",
+            "2 dentes de alho picados",
+            "1 pimentão vermelho picado",
+            "400g de tomate pelado",
+            "2 colheres de sopa de pasta de tomate",
+            "1 colher de chá de cominho em pó",
+            "1 colher de chá de páprica picante",
+            "1 colher de chá de pimenta em pó",
+            "1 lata de feijão vermelho (escorrido e lavado)",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Chili con Carne é um prato reconfortante e cheio de sabor. Comece refogando a cebola e o alho em uma panela com azeite até ficarem macios. Adicione a carne moída e cozinhe até dourar. Acrescente o pimentão, os tomates pelados, a pasta de tomate e os temperos (cominho, páprica, pimenta em pó). Cozinhe em fogo baixo por cerca de 1 hora, mexendo ocasionalmente. Nos últimos 15 minutos, adicione o feijão vermelho e ajuste o tempero. Sirva quente, acompanhado de tortillas ou arroz."
+        },
+        {
+          "titulo": "Quesadillas de Queijo",
+          "tempo_preparo": "20 minutos",
+          "porcoes": 4,
+          "dificuldade": 1,
+          "ingredientes": [
+            "8 tortillas de trigo",
+            "300g de queijo ralado (como cheddar ou mussarela)",
+            "Manteiga para grelhar",
+            "Molho salsa ou guacamole para servir"
+          ],
+          "modo_preparo": "As Quesadillas são uma opção rápida e deliciosa para qualquer ocasião. Aqueça uma frigideira com um pouco de manteiga. Coloque uma tortilla, espalhe uma generosa quantidade de queijo ralado por cima e cubra com outra tortilla. Grelhe por cerca de 2-3 minutos de cada lado, até que o queijo derreta e as tortillas fiquem douradas. Corte em triângulos e sirva com salsa ou guacamole."
+        },
+        {
+          "titulo": "Enchiladas de Frango",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "8 tortillas de milho",
+            "2 xícaras de frango desfiado",
+            "1 xícara de molho de tomate",
+            "1/2 xícara de creme de leite",
+            "1 xícara de queijo ralado",
+            "1 colher de chá de cominho",
+            "Coentro picado para decorar"
+          ],
+          "modo_preparo": "As Enchiladas de Frango são um prato tradicional cheio de sabor. Preaqueça o forno a 180°C. Misture o frango desfiado com metade do molho de tomate e o cominho. Recheie as tortillas com essa mistura e enrole-as. Coloque as tortillas recheadas em um refratário, despeje o restante do molho de tomate por cima, cubra com creme de leite e polvilhe queijo ralado. Asse por 20-25 minutos ou até que o queijo esteja dourado e borbulhante. Decore com coentro fresco antes de servir."
+        },
+        {
+          "titulo": "Churros com Doce de Leite",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 xícara de água",
+            "2 colheres de sopa de manteiga",
+            "1 colher de sopa de açúcar",
+            "1 xícara de farinha de trigo",
+            "2 ovos",
+            "Óleo para fritar",
+            "Açúcar e canela para polvilhar",
+            "Doce de leite para acompanhar"
+          ],
+          "modo_preparo": "Os Churros são uma sobremesa indulgente e perfeita para qualquer momento. Em uma panela, aqueça a água, a manteiga e o açúcar até ferver. Adicione a farinha de trigo de uma vez e misture vigorosamente até formar uma massa lisa que desgrude da panela. Retire do fogo e deixe esfriar por alguns minutos. Incorpore os ovos um a um, misturando bem até que a massa fique homogênea. Coloque a massa em um saco de confeitar com bico estrelado. Aqueça o óleo em uma panela funda e, com cuidado, modele os churros diretamente no óleo quente, cortando com uma tesoura. Frite até dourar e escorra em papel-toalha. Passe no açúcar com canela e sirva com doce de leite."
+        }
+      ]
+    }
+
+
+
+
+,
+
+    {
+      "numero": 5,
+      "titulo": "Culinária Brasileira",
+      "descricao": "A culinária brasileira é uma celebração de diversidade cultural, influenciada por tradições indígenas, africanas, europeias e asiáticas. Cada prato conta uma história única e reflete a riqueza de ingredientes regionais. Com sabores marcantes, preparos criativos e cores vibrantes, a gastronomia do Brasil é uma verdadeira viagem pelos sentidos. Neste capítulo, você descobrirá receitas que representam a alma do Brasil, proporcionando experiências que vão aquecer o coração e encantar o paladar.",
+      "receitas": [
+        {
+          "titulo": "Feijoada",
+          "tempo_preparo": "3 horas",
+          "porcoes": 6,
+          "dificuldade": 5,
+          "ingredientes": [
+            "500g de feijão preto",
+            "200g de carne-seca",
+            "200g de costelinha de porco",
+            "150g de linguiça calabresa",
+            "150g de paio",
+            "2 folhas de louro",
+            "1 cebola grande picada",
+            "3 dentes de alho picados",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "A Feijoada é um prato emblemático do Brasil, rico em história e sabor. Comece deixando o feijão e as carnes salgadas de molho em água por pelo menos 12 horas, trocando a água várias vezes. Cozinhe o feijão em uma panela grande com as folhas de louro até que fique macio. Em outra panela, refogue a cebola e o alho em óleo. Adicione as carnes (já dessalgadas e cortadas) e doure bem. Junte as carnes ao feijão e cozinhe em fogo baixo por mais 1 hora, ajustando os temperos. Sirva com arroz branco, couve refogada e fatias de laranja."
+        },
+        {
+          "titulo": "Moqueca de Peixe",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "1kg de peixe em postas (como robalo ou cação)",
+            "1 pimentão vermelho em rodelas",
+            "1 pimentão amarelo em rodelas",
+            "1 cebola grande em rodelas",
+            "3 tomates maduros em rodelas",
+            "200ml de leite de coco",
+            "2 colheres de sopa de azeite de dendê",
+            "Coentro fresco a gosto",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "A Moqueca é um prato de herança afro-brasileira, caracterizado pelo sabor marcante do azeite de dendê. Tempere as postas de peixe com sal e pimenta e reserve. Em uma panela de barro, faça camadas com os pimentões, a cebola e os tomates. Coloque o peixe por cima e regue com o leite de coco e o azeite de dendê. Tampe e cozinhe em fogo baixo por cerca de 30 minutos, sem mexer para não desmanchar as postas. Finalize com coentro fresco e sirva com arroz e farofa."
+        },
+        {
+          "titulo": "Pão de Queijo",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "500g de polvilho doce",
+            "250ml de leite",
+            "100ml de óleo",
+            "2 ovos",
+            "200g de queijo minas ralado",
+            "1 colher de chá de sal"
+          ],
+          "modo_preparo": "O Pão de Queijo é uma iguaria mineira amada em todo o Brasil. Ferva o leite com o óleo e o sal. Despeje a mistura quente sobre o polvilho, mexendo bem para escaldar. Quando a massa estiver morna, acrescente os ovos e o queijo ralado, misturando até ficar homogêneo. Molde bolinhas e coloque em uma assadeira untada. Asse em forno preaquecido a 180°C por 25-30 minutos ou até dourar."
+        },
+        {
+          "titulo": "Acarajé",
+          "tempo_preparo": "2 horas (mais o tempo de molho do feijão)",
+          "porcoes": 6,
+          "dificuldade": 5,
+          "ingredientes": [
+            "500g de feijão-fradinho",
+            "1 cebola grande picada",
+            "Sal a gosto",
+            "Óleo de dendê para fritar",
+            "Vatapá e camarão seco para rechear"
+          ],
+          "modo_preparo": "O Acarajé é um prato tradicional da Bahia, com forte influência africana. Deixe o feijão-fradinho de molho em água por 8 horas. Retire a casca esfregando os grãos entre as mãos e processe até formar uma massa homogênea com a cebola e o sal. Modele bolinhos e frite no óleo de dendê quente até dourarem. Sirva recheado com vatapá e camarão seco, acompanhado de pimenta."
+        },
+        {
+          "titulo": "Brigadeiro",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 20,
+          "dificuldade": 1,
+          "ingredientes": [
+            "1 lata de leite condensado",
+            "2 colheres de sopa de chocolate em pó",
+            "1 colher de sopa de manteiga",
+            "Granulado para decorar"
+          ],
+          "modo_preparo": "O Brigadeiro é o doce mais amado do Brasil, presente em todas as festas. Misture o leite condensado, o chocolate em pó e a manteiga em uma panela. Cozinhe em fogo baixo, mexendo constantemente, até que a mistura desgrude do fundo da panela. Deixe esfriar, enrole em pequenas bolinhas e passe no granulado."
+        },
+        {
+          "titulo": "Cuscuz Paulista",
+          "tempo_preparo": "1 hora",
+          "porcoes": 6",
+          "dificuldade": 3,
+          "ingredientes": [
+            "2 xícaras de farinha de milho",
+            "1 xícara de caldo de legumes",
+            "1 lata de milho verde",
+            "1 lata de ervilha",
+            "2 tomates picados",
+            "1 cebola picada",
+            "1 lata de sardinha",
+            "Salsinha a gosto",
+            "Ovos cozidos para decorar"
+          ],
+          "modo_preparo": "O Cuscuz Paulista é um prato versátil e cheio de sabor. Em uma panela, refogue a cebola e os tomates. Acrescente o caldo de legumes, o milho, a ervilha e a sardinha. Misture bem e adicione a farinha de milho aos poucos, mexendo até obter uma massa consistente. Em uma forma untada, decore o fundo com ovos cozidos e salsinha. Despeje a massa, pressionando bem. Deixe esfriar e desenforme antes de servir."
+        }
+      ]
+    }
+
+
+
+
+
+    ,
+
+
+    {
+      "numero": 6,
+      "titulo": "Culinária Tailandesa",
+      "descricao": "A culinária tailandesa é uma jornada sensorial única, onde sabores doces, ácidos, salgados e picantes se combinam harmoniosamente em cada prato. Influenciada por tradições locais e ingredientes exóticos, a gastronomia tailandesa é conhecida por sua riqueza de aromas e pela complexidade de seus pratos. Este capítulo convida você a explorar o mundo vibrante e colorido da Tailândia, descobrindo receitas que exaltam o frescor das ervas, o calor das especiarias e a criatividade dos temperos.",
+      "receitas": [
+        {
+          "titulo": "Pad Thai",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "200g de macarrão de arroz",
+            "200g de camarão limpo",
+            "2 ovos",
+            "2 colheres de sopa de molho de peixe",
+            "1 colher de sopa de molho de tamarindo",
+            "1 colher de sopa de açúcar de palma",
+            "2 dentes de alho picados",
+            "1 xícara de broto de feijão",
+            "Amendoim triturado para decorar",
+            "Cebolinha picada para finalizar",
+            "Fatias de limão para servir"
+          ],
+          "modo_preparo": "O Pad Thai é o prato mais emblemático da Tailândia, uma combinação perfeita de sabores e texturas. Comece cozinhando o macarrão de arroz em água quente por cerca de 5 minutos ou até ficar macio, mas ainda firme. Escorra e reserve. Em uma wok, aqueça um pouco de óleo e refogue o alho até dourar. Adicione os camarões e cozinhe até que fiquem rosados. Empurre os camarões para o lado da wok e quebre os ovos no centro, mexendo até ficarem firmes. Acrescente o molho de peixe, o molho de tamarindo e o açúcar de palma, misturando bem. Adicione o macarrão e mexa para incorporar o molho. Finalize com broto de feijão, amendoim triturado, cebolinha e sirva com fatias de limão."
+        },
+        {
+          "titulo": "Tom Yum (Sopa Picante)",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "1 litro de caldo de galinha",
+            "200g de camarão limpo",
+            "3 talos de capim-limão",
+            "4 folhas de limão kaffir",
+            "2 pimentas vermelhas",
+            "1 colher de sopa de pasta de tom yum",
+            "200ml de leite de coco",
+            "1 colher de sopa de molho de peixe",
+            "Suco de 1 limão",
+            "Coentro fresco para decorar"
+          ],
+          "modo_preparo": "A Tom Yum é uma sopa picante e aromática que captura a essência da Tailândia. Comece aquecendo o caldo de galinha em uma panela grande. Adicione o capim-limão cortado em pedaços, as folhas de limão kaffir e as pimentas, deixando ferver por alguns minutos para liberar os aromas. Acrescente a pasta de tom yum, o leite de coco e o molho de peixe, mexendo bem. Adicione os camarões e cozinhe até ficarem rosados. Retire do fogo e misture o suco de limão. Sirva quente, decorado com coentro fresco."
+        },
+        {
+          "titulo": "Green Curry (Curry Verde)",
+          "tempo_preparo": "45 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "2 colheres de sopa de pasta de curry verde",
+            "400ml de leite de coco",
+            "300g de frango em cubos",
+            "2 berinjelas tailandesas cortadas",
+            "1 pimentão verde em tiras",
+            "4 folhas de limão kaffir",
+            "1 colher de sopa de molho de peixe",
+            "1 colher de chá de açúcar",
+            "Manjericão tailandês para decorar"
+          ],
+          "modo_preparo": "O Green Curry é um prato aromático e levemente picante. Aqueça uma colher de sopa de óleo em uma panela e refogue a pasta de curry verde até liberar o aroma. Acrescente o leite de coco e misture bem. Adicione o frango e cozinhe até que esteja macio. Junte as berinjelas, o pimentão e as folhas de limão kaffir, cozinhando por mais 10 minutos. Tempere com molho de peixe e açúcar. Finalize com manjericão tailandês e sirva com arroz jasmine."
+        },
+        {
+          "titulo": "Som Tam (Salada de Mamão Verde)",
+          "tempo_preparo": "20 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "1 mamão verde ralado",
+            "2 tomates cereja cortados ao meio",
+            "2 colheres de sopa de amendoim torrado",
+            "2 dentes de alho",
+            "2 pimentas vermelhas",
+            "1 colher de sopa de molho de peixe",
+            "1 colher de sopa de suco de limão",
+            "1 colher de chá de açúcar de palma"
+          ],
+          "modo_preparo": "O Som Tam é uma salada refrescante e picante. Em um pilão, amasse o alho, as pimentas e o açúcar de palma até formar uma pasta. Adicione o mamão verde ralado, os tomates e o amendoim, misturando delicadamente. Tempere com molho de peixe e suco de limão. Sirva como entrada ou acompanhamento para pratos principais."
+        },
+        {
+          "titulo": "Mango Sticky Rice (Arroz Doce com Manga)",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 xícara de arroz glutinoso",
+            "200ml de leite de coco",
+            "1/4 de xícara de açúcar",
+            "1/4 de colher de chá de sal",
+            "2 mangas maduras fatiadas",
+            "Gergelim torrado para decorar"
+          ],
+          "modo_preparo": "O Mango Sticky Rice é uma sobremesa simples e deliciosa. Cozinhe o arroz glutinoso no vapor até ficar macio. Em uma panela pequena, aqueça o leite de coco com o açúcar e o sal, mexendo até dissolver. Misture metade do leite de coco ao arroz ainda quente e deixe descansar por 10 minutos. Sirva o arroz com as fatias de manga, regado com o restante do leite de coco e decorado com gergelim torrado."
+        },
+        {
+          "titulo": "Spring Rolls (Rolinhos Primavera)",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "8 folhas de arroz",
+            "1 cenoura ralada",
+            "1 pepino cortado em tiras finas",
+            "1 xícara de broto de feijão",
+            "Folhas de hortelã e coentro",
+            "Molho de amendoim para servir"
+          ],
+          "modo_preparo": "Os Spring Rolls são uma entrada leve e refrescante. Hidrate as folhas de arroz em água morna até ficarem maleáveis. No centro de cada folha, disponha a cenoura, o pepino, o broto de feijão e as folhas de hortelã e coentro. Dobre as laterais e enrole firmemente. Sirva com molho de amendoim para um toque especial."
+        }
+      ]
+    }
+
+
+
+
+    ,
+
+
+
+
+    {
+      "numero": 7,
+      "titulo": "Culinária Indiana",
+      "descricao": "A culinária indiana é uma explosão de aromas e sabores, famosa pelo uso criativo de especiarias que transformam cada prato em uma experiência sensorial única. Com receitas que variam de região para região, a gastronomia indiana oferece uma ampla variedade de pratos vegetarianos e não vegetarianos, sempre ricos em sabor e cor. Este capítulo convida você a explorar a magia das especiarias indianas, com receitas que exaltam o equilíbrio entre tradição e intensidade.",
+      "receitas": [
+        {
+          "titulo": "Chicken Tikka Masala",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "500g de peito de frango em cubos",
+            "200ml de iogurte natural",
+            "2 colheres de sopa de garam masala",
+            "1 colher de chá de cúrcuma",
+            "1 colher de chá de cominho em pó",
+            "3 dentes de alho picados",
+            "1 colher de sopa de gengibre ralado",
+            "200ml de molho de tomate",
+            "100ml de creme de leite",
+            "Coentro fresco para decorar"
+          ],
+          "modo_preparo": "O Chicken Tikka Masala é um clássico da culinária indiana, conhecido por seu molho cremoso e aromático. Tempere os cubos de frango com iogurte, garam masala, cúrcuma, cominho, alho e gengibre. Deixe marinar por pelo menos 30 minutos. Grelhe o frango em uma frigideira até dourar. Em outra panela, aqueça o molho de tomate e adicione o creme de leite, misturando bem. Acrescente o frango grelhado ao molho e cozinhe por mais 10 minutos em fogo baixo. Finalize com coentro fresco e sirva com arroz basmati ou naan."
+        },
+        {
+          "titulo": "Butter Chicken (Frango com Manteiga)",
+          "tempo_preparo": "1 hora e 20 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "500g de peito de frango em cubos",
+            "2 colheres de sopa de manteiga",
+            "2 colheres de sopa de pasta de alho e gengibre",
+            "200ml de molho de tomate",
+            "1 colher de chá de garam masala",
+            "1 colher de chá de páprica doce",
+            "200ml de creme de leite",
+            "Sal e pimenta a gosto",
+            "Coentro fresco para decorar"
+          ],
+          "modo_preparo": "O Butter Chicken é um prato rico e cremoso que combina sabores doces e apimentados. Comece refogando a pasta de alho e gengibre na manteiga até liberar o aroma. Adicione o molho de tomate, garam masala e páprica doce, deixando cozinhar em fogo baixo por 10 minutos. Enquanto isso, grelhe os cubos de frango até dourarem. Adicione o frango ao molho e cozinhe por mais 20 minutos. Acrescente o creme de leite, ajuste o sal e sirva quente com naan ou arroz."
+        },
+        {
+          "titulo": "Chana Masala (Curry de Grão-de-Bico)",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "2 xícaras de grão-de-bico cozido",
+            "1 cebola picada",
+            "2 tomates maduros picados",
+            "2 colheres de sopa de óleo vegetal",
+            "1 colher de chá de garam masala",
+            "1 colher de chá de cúrcuma",
+            "1 colher de chá de cominho em pó",
+            "1 colher de chá de pimenta em pó",
+            "Suco de 1 limão",
+            "Coentro fresco para decorar"
+          ],
+          "modo_preparo": "O Chana Masala é um prato vegetariano nutritivo e cheio de sabor. Aqueça o óleo em uma panela e refogue a cebola até dourar. Adicione os tomates e cozinhe até formar um molho espesso. Misture as especiarias (garam masala, cúrcuma, cominho e pimenta) e cozinhe por 2 minutos. Acrescente o grão-de-bico e misture bem, deixando cozinhar por 15 minutos em fogo baixo. Finalize com suco de limão e coentro fresco. Sirva com chapati ou arroz."
+        },
+        {
+          "titulo": "Naan (Pão Indiano)",
+          "tempo_preparo": "2 horas (incluindo fermentação)",
+          "porcoes": 6 ,
+          "dificuldade": 3,
+          "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1 colher de chá de fermento biológico seco",
+            "1/2 colher de chá de sal",
+            "1/2 xícara de iogurte natural",
+            "1/4 de xícara de água morna",
+            "1 colher de sopa de óleo",
+            "Manteiga derretida para pincelar"
+          ],
+          "modo_preparo": "O Naan é um pão macio e perfeito para acompanhar curries. Em uma tigela, misture a farinha, o fermento e o sal. Acrescente o iogurte, a água morna e o óleo, amassando até formar uma massa macia. Deixe descansar por 1 hora ou até dobrar de volume. Divida a massa em porções e abra em discos finos. Aqueça uma frigideira em fogo alto e cozinhe cada disco por 2-3 minutos de cada lado, até formar bolhas e dourar. Pincele com manteiga derretida antes de servir."
+        },
+        {
+          "titulo": "Samosa (Pastel Indiano)",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 12,
+          "dificuldade": 4,
+          "ingredientes": [
+            "2 xícaras de farinha de trigo",
+            "1/4 de xícara de óleo",
+            "1/2 xícara de água morna",
+            "2 batatas cozidas e amassadas",
+            "1/2 xícara de ervilhas cozidas",
+            "1 colher de chá de cúrcuma",
+            "1 colher de chá de garam masala",
+            "Óleo para fritar"
+          ],
+          "modo_preparo": "As Samosas são pastéis recheados que combinam texturas crocantes e recheios aromáticos. Prepare a massa misturando a farinha, o óleo e a água até obter uma textura lisa. Deixe descansar por 30 minutos. Para o recheio, misture as batatas, as ervilhas, a cúrcuma e o garam masala. Abra a massa em círculos, corte ao meio e forme cones. Recheie cada cone e feche bem as bordas. Frite em óleo quente até dourar. Sirva com chutney de menta ou tamarindo."
+        },
+        {
+          "titulo": "Lassi de Manga",
+          "tempo_preparo": "10 minutos",
+          "porcoes": 2,
+          "dificuldade": 1,
+          "ingredientes": [
+            "1 manga madura",
+            "1 xícara de iogurte natural",
+            "1/2 xícara de leite",
+            "2 colheres de sopa de açúcar",
+            "Gelo a gosto"
+          ],
+          "modo_preparo": "O Lassi de Manga é uma bebida refrescante e doce, perfeita para acompanhar pratos picantes. Bata todos os ingredientes no liquidificador até obter uma consistência cremosa. Sirva gelado em copos altos, decorado com pedaços de manga ou uma pitada de cardamomo em pó."
+        }
+      ]
+    }
+
+
+
+
+    ,
+
+
+    {
+      "numero": 8,
+      "titulo": "Culinária Chinesa",
+      "descricao": "A culinária chinesa é uma das mais antigas e diversificadas do mundo, marcada por sua busca constante pelo equilíbrio de sabores, texturas e cores. Com uma rica herança cultural, ela mistura técnicas ancestrais com toques modernos, criando pratos que encantam o paladar e refletem a filosofia de harmonia presente em todas as facetas da vida chinesa. Este capítulo leva você a explorar receitas autênticas que celebram a tradição e a criatividade, utilizando ingredientes frescos e técnicas culinárias precisas.",
+      "receitas": [
+        {
+          "titulo": "Frango Xadrez",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "500g de peito de frango em cubos",
+            "1 pimentão vermelho em cubos",
+            "1 pimentão verde em cubos",
+            "1 cebola grande em cubos",
+            "2 dentes de alho picados",
+            "1/4 de xícara de amendoim torrado",
+            "2 colheres de sopa de shoyu",
+            "1 colher de sopa de óleo de gergelim",
+            "1 colher de sopa de maisena dissolvida em água",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Frango Xadrez é um clássico da culinária chinesa, valorizado por sua combinação de cores vibrantes e sabores equilibrados. Comece temperando os cubos de frango com sal e pimenta. Em uma frigideira grande ou wok, aqueça o óleo de gergelim e refogue o alho até dourar. Adicione o frango e cozinhe até que esteja completamente selado. Acrescente os pimentões e a cebola, mexendo continuamente por 5 minutos para manter os vegetais crocantes. Adicione o shoyu e a maisena dissolvida, mexendo até que o molho engrosse levemente. Finalize com o amendoim torrado e sirva quente com arroz branco."
+        },
+        {
+          "titulo": "Arroz Frito (Yangzhou Chaofan)",
+          "tempo_preparo": "20 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "3 xícaras de arroz cozido (preferencialmente do dia anterior)",
+            "2 ovos batidos",
+            "150g de presunto em cubos",
+            "1/2 xícara de ervilhas",
+            "1/2 xícara de cenoura em cubos",
+            "2 colheres de sopa de shoyu",
+            "2 colheres de sopa de óleo vegetal",
+            "Cebolinha picada para finalizar"
+          ],
+          "modo_preparo": "O Arroz Frito é uma receita prática e deliciosa, ideal para aproveitar sobras de arroz. Em uma wok, aqueça o óleo vegetal e despeje os ovos batidos, mexendo para formar pedaços pequenos. Adicione o presunto, as ervilhas e a cenoura, refogando rapidamente. Acrescente o arroz e o shoyu, misturando bem para que todos os ingredientes estejam incorporados. Finalize com cebolinha picada e sirva como acompanhamento ou prato principal."
+        },
+        {
+          "titulo": "Porco Agridoce",
+          "tempo_preparo": "45 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "500g de carne de porco em cubos",
+            "1 pimentão vermelho em cubos",
+            "1 pimentão amarelo em cubos",
+            "1 cebola em cubos",
+            "1/2 xícara de abacaxi em cubos",
+            "1/4 de xícara de vinagre de arroz",
+            "1/4 de xícara de ketchup",
+            "2 colheres de sopa de açúcar",
+            "2 colheres de sopa de maisena",
+            "Óleo para fritar"
+          ],
+          "modo_preparo": "O Porco Agridoce é um prato que combina perfeitamente o contraste de sabores doces e ácidos. Tempere os cubos de porco com sal e passe-os na maisena. Frite em óleo quente até dourar e reserve. Em uma panela, misture o vinagre, o ketchup e o açúcar, cozinhando até formar um molho espesso. Adicione os pimentões, a cebola e o abacaxi, mexendo por alguns minutos. Incorpore a carne de porco ao molho, mexa bem e sirva com arroz branco."
+        },
+        {
+          "titulo": "Rolinhos Primavera",
+          "tempo_preparo": "1 hora",
+          "porcoes": 8 ,
+          "dificuldade": 3,
+          "ingredientes": [
+            "8 folhas de massa para rolinho primavera",
+            "1/2 repolho fatiado",
+            "1 cenoura ralada",
+            "1/2 xícara de broto de feijão",
+            "2 colheres de sopa de shoyu",
+            "1 colher de sopa de óleo de gergelim",
+            "Óleo para fritar"
+          ],
+          "modo_preparo": "Os Rolinhos Primavera são uma entrada crocante e cheia de sabor. Em uma wok, aqueça o óleo de gergelim e refogue o repolho, a cenoura e o broto de feijão por 3 minutos. Adicione o shoyu e misture bem. Deixe o recheio esfriar antes de montar os rolinhos. Coloque uma porção do recheio no centro de cada folha de massa, dobre as laterais e enrole firmemente. Frite em óleo quente até dourar e sirva com molho agridoce."
+        },
+        {
+          "titulo": "Mapo Tofu",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 4,
+          "ingredientes": [
+            "400g de tofu firme em cubos",
+            "200g de carne moída de porco",
+            "2 colheres de sopa de pasta de feijão fermentado (doubanjiang)",
+            "1 colher de chá de óleo de pimenta",
+            "1 colher de chá de amido de milho dissolvido em água",
+            "2 dentes de alho picados",
+            "Cebolinha picada para finalizar"
+          ],
+          "modo_preparo": "O Mapo Tofu é um prato tradicional da região de Sichuan, conhecido por seu sabor picante e marcante. Refogue o alho em uma wok com óleo até dourar. Adicione a carne moída e cozinhe até ficar dourada. Acrescente a pasta de feijão fermentado e o óleo de pimenta, misturando bem. Adicione o tofu em cubos, mexendo delicadamente para não desmanchá-lo. Finalize com o amido de milho dissolvido, cozinhe até o molho engrossar e sirva com cebolinha picada."
+        },
+        {
+          "titulo": "Pato Laqueado (Peking Duck)",
+          "tempo_preparo": "4 horas",
+          "porcoes": 6,
+          "dificuldade": 5,
+          "ingredientes": [
+            "1 pato inteiro limpo",
+            "3 colheres de sopa de mel",
+            "2 colheres de sopa de molho de soja",
+            "1 colher de chá de gengibre ralado",
+            "1 colher de chá de cinco especiarias chinesas",
+            "Panquecas para servir",
+            "Cebolinha e pepino para acompanhar"
+          ],
+          "modo_preparo": "O Pato Laqueado é um prato sofisticado e símbolo da alta gastronomia chinesa. Misture o mel, o molho de soja, o gengibre e as cinco especiarias, e pincele o pato com essa marinada. Deixe secar por 1 hora. Preaqueça o forno a 180°C e asse o pato por 2 horas, pincelando com a marinada a cada 30 minutos. Sirva o pato fatiado em panquecas com cebolinha e pepino, acompanhados de molho hoisin."
+        }
+      ]
+    }
+
+
+,
+
+
+
+
+    {
+      "numero": 9,
+      "titulo": "Culinária Mediterrânea",
+      "descricao": "A culinária mediterrânea é a personificação do equilíbrio entre sabor, saúde e simplicidade. Com base em ingredientes frescos e nutritivos, como azeite de oliva, legumes, peixes e ervas aromáticas, esta gastronomia promove um estilo de vida saudável e prazeroso. Inspirada pelas tradições das regiões banhadas pelo Mediterrâneo, cada prato reflete uma conexão profunda com a natureza e com a cultura local. Neste capítulo, você encontrará receitas que celebram o frescor e a sofisticação da cozinha mediterrânea.",
+      "receitas": [
+        {
+          "titulo": "Salada Grega",
+          "tempo_preparo": "15 minutos",
+          "porcoes": 4,
+          "dificuldade": 1,
+          "ingredientes": [
+            "4 tomates maduros cortados em cubos",
+            "1 pepino fatiado",
+            "1 pimentão verde cortado em tiras",
+            "1 cebola roxa fatiada",
+            "150g de queijo feta em cubos",
+            "1/4 de xícara de azeitonas pretas",
+            "3 colheres de sopa de azeite de oliva",
+            "1 colher de chá de orégano seco",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "A Salada Grega é uma combinação vibrante e refrescante de ingredientes simples. Em uma tigela grande, misture os tomates, o pepino, o pimentão e a cebola. Acrescente o queijo feta e as azeitonas. Regue com azeite de oliva, polvilhe o orégano seco e tempere com sal e pimenta. Sirva imediatamente como entrada ou acompanhamento."
+        },
+        {
+          "titulo": "Hummus de Grão-de-Bico",
+          "tempo_preparo": "20 minutos",
+          "porcoes": 6,
+          "dificuldade": 2,
+          "ingredientes": [
+            "2 xícaras de grão-de-bico cozido",
+            "1/4 de xícara de tahine",
+            "Suco de 1 limão",
+            "2 dentes de alho picados",
+            "1/4 de xícara de azeite de oliva",
+            "1 colher de chá de cominho em pó",
+            "Sal a gosto"
+          ],
+          "modo_preparo": "O Hummus é um prato tradicional que combina cremosidade e sabor. No processador, bata o grão-de-bico com o tahine, o suco de limão, o alho e o azeite de oliva até obter uma pasta lisa. Acrescente o cominho e ajuste o sal. Se necessário, adicione água para ajustar a consistência. Sirva com pão pita ou legumes crus."
+        },
+        {
+          "titulo": "Tabule",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "1 xícara de trigo para quibe",
+            "2 tomates picados",
+            "1 pepino picado",
+            "1/2 xícara de salsinha picada",
+            "1/4 de xícara de hortelã picada",
+            "Suco de 1 limão",
+            "3 colheres de sopa de azeite de oliva",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Tabule é uma salada fresca e cheia de aromas. Hidrate o trigo para quibe em água morna por 20 minutos e escorra bem. Em uma tigela, misture o trigo com os tomates, o pepino, a salsinha e a hortelã. Tempere com o suco de limão, o azeite, o sal e a pimenta. Sirva como entrada ou acompanhamento."
+        },
+        {
+          "titulo": "Cuscuz Marroquino com Legumes",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 xícara de cuscuz marroquino",
+            "1 xícara de caldo de legumes quente",
+            "1 abobrinha cortada em cubos",
+            "1 cenoura cortada em cubos",
+            "1 pimentão vermelho picado",
+            "1/4 de xícara de passas",
+            "2 colheres de sopa de azeite de oliva",
+            "Salsinha picada para decorar",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Cuscuz Marroquino é um prato versátil e nutritivo. Coloque o cuscuz em uma tigela e despeje o caldo de legumes quente por cima, cobrindo com filme plástico. Deixe descansar por 10 minutos e solte os grãos com um garfo. Em uma frigideira, aqueça o azeite e refogue os legumes até ficarem macios. Misture os legumes ao cuscuz, adicione as passas e tempere com sal e pimenta. Decore com salsinha antes de servir."
+        },
+        {
+          "titulo": "Peixe Assado com Ervas",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 peixe inteiro limpo (como dourada ou robalo)",
+            "3 dentes de alho picados",
+            "1 limão em rodelas",
+            "1 ramo de alecrim",
+            "1 ramo de tomilho",
+            "2 colheres de sopa de azeite de oliva",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Peixe Assado com Ervas é uma receita simples e elegante. Preaqueça o forno a 200°C. Tempere o peixe por dentro e por fora com sal e pimenta. Recheie o interior com alho, rodelas de limão, alecrim e tomilho. Coloque o peixe em uma assadeira, regue com azeite de oliva e asse por 30-40 minutos ou até que a carne esteja macia. Sirva com salada ou legumes grelhados."
+        },
+        {
+          "titulo": "Baklava",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 10,
+          "dificuldade": 4,
+          "ingredientes": [
+            "500g de massa filo",
+            "300g de nozes picadas",
+            "200g de manteiga derretida",
+            "1 xícara de açúcar",
+            "1/2 xícara de mel",
+            "1/2 xícara de água",
+            "1 colher de chá de suco de limão",
+            "1 colher de chá de água de flor de laranjeira (opcional)"
+          ],
+          "modo_preparo": "A Baklava é uma sobremesa rica e indulgente. Preaqueça o forno a 180°C. Em uma assadeira, alterne camadas de massa filo pinceladas com manteiga derretida e nozes picadas, repetindo até terminar com uma camada de massa. Corte em losangos e asse por 30 minutos. Enquanto isso, prepare a calda: ferva o açúcar, o mel, a água, o suco de limão e a água de flor de laranjeira por 10 minutos. Despeje a calda quente sobre a baklava recém-assada e deixe esfriar antes de servir."
+        }
+      ]
+    }
+
+
+
+
+
+    ,
+    {
+      "numero": 10,
+      "titulo": "Culinária Árabe",
+      "descricao": "A culinária árabe é conhecida por sua generosidade e riqueza de sabores, refletindo uma cultura de hospitalidade calorosa e celebração. Com pratos elaborados e ingredientes aromáticos como especiarias, ervas frescas, grãos e carnes, ela representa a união entre tradição e fartura. Cada refeição é uma experiência compartilhada, repleta de histórias e significados. Neste capítulo, você será convidado a explorar receitas icônicas que trazem à mesa toda a alma e calor da cozinha árabe.",
+      "receitas": [
+        {
+          "titulo": "Kibe Frito",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "500g de carne moída",
+            "1 xícara de trigo para quibe",
+            "1 cebola média ralada",
+            "1 colher de sopa de hortelã picada",
+            "1 colher de chá de pimenta síria",
+            "Sal a gosto",
+            "Óleo para fritar"
+          ],
+          "modo_preparo": "O Kibe Frito é um dos pratos mais populares da culinária árabe. Comece deixando o trigo de molho em água morna por 30 minutos e depois escorra bem. Em uma tigela grande, misture o trigo com a carne moída, a cebola, a hortelã, a pimenta síria e o sal. Amasse até formar uma massa homogênea. Modele os quibes em formato oval, com as pontas levemente afinadas. Aqueça o óleo em uma panela funda e frite os quibes até ficarem dourados e crocantes. Escorra em papel-toalha e sirva com coalhada ou molho tahine."
+        },
+        {
+          "titulo": "Esfiha de Carne",
+          "tempo_preparo": "2 horas",
+          "porcoes": 20 ,
+          "dificuldade": 4,
+          "ingredientes": [
+            "500g de farinha de trigo",
+            "1 colher de sopa de fermento biológico seco",
+            "1 colher de sopa de açúcar",
+            "1/2 colher de chá de sal",
+            "1/2 xícara de óleo",
+            "1 xícara de água morna",
+            "500g de carne moída",
+            "1 cebola média picada",
+            "2 tomates picados",
+            "Suco de 1 limão",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "A Esfiha é um lanche árabe muito apreciado. Para a massa, misture a farinha, o fermento, o açúcar e o sal. Acrescente o óleo e a água morna, sovando até obter uma massa lisa. Deixe crescer por 1 hora. Para o recheio, misture a carne moída com a cebola, os tomates, o suco de limão, o sal e a pimenta. Abra porções de massa em círculos, recheie com a mistura de carne e feche em formato triangular. Asse em forno preaquecido a 200°C por 20 minutos ou até dourar."
+        },
+        {
+          "titulo": "Babaganoush",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "2 berinjelas grandes",
+            "2 colheres de sopa de tahine",
+            "2 dentes de alho picados",
+            "Suco de 1 limão",
+            "2 colheres de sopa de azeite de oliva",
+            "Sal a gosto",
+            "Salsinha para decorar"
+          ],
+          "modo_preparo": "O Babaganoush é um creme de berinjela defumado, perfeito como entrada. Asse as berinjelas em forno alto ou diretamente na chama do fogão até que fiquem macias e com a casca queimada. Retire a polpa e amasse com um garfo. Misture o tahine, o alho, o suco de limão, o azeite e o sal. Sirva frio, decorado com salsinha e um fio de azeite, acompanhado de pão sírio."
+        },
+        {
+          "titulo": "Charuto de Folha de Uva",
+          "tempo_preparo": "2 horas",
+          "porcoes": 6,
+          "dificuldade": 4,
+          "ingredientes": [
+            "30 folhas de uva",
+            "1 xícara de arroz cru",
+            "300g de carne moída",
+            "1 cebola pequena picada",
+            "1 tomate picado",
+            "1 colher de chá de pimenta síria",
+            "1/2 colher de chá de sal",
+            "1/4 de xícara de azeite de oliva",
+            "Suco de 2 limões"
+          ],
+          "modo_preparo": "Os Charutos de Folha de Uva são uma especialidade árabe delicada e cheia de sabor. Escalde as folhas de uva em água quente por 2 minutos e reserve. Misture o arroz, a carne, a cebola, o tomate, a pimenta síria e o sal para formar o recheio. Coloque uma pequena porção do recheio em cada folha de uva e enrole firmemente. Disponha os charutos em uma panela, regue com azeite e suco de limão, e cubra com água. Cozinhe em fogo baixo por cerca de 1 hora, até que as folhas estejam macias e o arroz cozido."
+        },
+        {
+          "titulo": "Tabule",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "1 xícara de trigo para quibe",
+            "2 tomates picados",
+            "1 pepino picado",
+            "1/2 xícara de salsinha picada",
+            "1/4 de xícara de hortelã picada",
+            "Suco de 1 limão",
+            "3 colheres de sopa de azeite de oliva",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Tabule é uma salada árabe refrescante e aromática. Hidrate o trigo para quibe em água morna por 20 minutos e escorra bem. Misture com os tomates, o pepino, a salsinha e a hortelã. Tempere com suco de limão, azeite, sal e pimenta. Sirva frio como entrada ou acompanhamento."
+        },
+        {
+          "titulo": "Doce de Semolina (Basbousa)",
+          "tempo_preparo": "1 hora",
+          "porcoes": 8,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1 xícara de semolina",
+            "1/2 xícara de açúcar",
+            "1/2 xícara de iogurte natural",
+            "1/4 de xícara de manteiga derretida",
+            "1 colher de chá de fermento em pó",
+            "1/2 xícara de amêndoas para decorar",
+            "1 xícara de calda de açúcar (água, açúcar e limão)"
+          ],
+          "modo_preparo": "O Basbousa é um doce tradicional de textura macia e sabor adocicado. Misture a semolina, o açúcar, o iogurte, a manteiga e o fermento até obter uma massa homogênea. Espalhe em uma assadeira untada, decore com amêndoas e asse em forno preaquecido a 180°C por 30 minutos. Enquanto isso, prepare a calda fervendo água, açúcar e suco de limão até engrossar levemente. Retire o doce do forno e regue com a calda quente. Deixe esfriar antes de servir."
+        }
+      ]
+    }
+
+
+
+
+
+    ,
+
+
+
+
+    {
+      "numero": 11,
+      "titulo": "Culinária Africana",
+      "descricao": "A culinária africana é profundamente conectada às suas raízes ancestrais e à diversidade cultural do continente. Combinando técnicas tradicionais e ingredientes autênticos, ela reflete a história e as riquezas naturais de cada região. Grãos, tubérculos, especiarias e sabores intensos são elementos centrais, criando pratos que encantam pelo sabor e pela simplicidade. Neste capítulo, você será convidado a explorar receitas que revelam a alma e a herança de uma das cozinhas mais vibrantes e fascinantes do mundo.",
+      "receitas": [
+        {
+          "titulo": "Jollof Rice (Arroz Jollof)",
+          "tempo_preparo": "1 hora",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "2 xícaras de arroz",
+            "2 tomates grandes picados",
+            "1 pimentão vermelho picado",
+            "1 cebola média picada",
+            "2 colheres de sopa de pasta de tomate",
+            "500ml de caldo de frango ou legumes",
+            "1 colher de chá de páprica",
+            "1 colher de chá de pimenta-do-reino",
+            "2 colheres de sopa de óleo vegetal",
+            "Sal a gosto"
+          ],
+          "modo_preparo": "O Jollof Rice é um prato popular na África Ocidental, conhecido por sua cor vibrante e sabor marcante. Em uma panela grande, aqueça o óleo e refogue a cebola até dourar. Adicione os tomates, o pimentão e a pasta de tomate, cozinhando até formar um molho espesso. Acrescente o caldo, a páprica e a pimenta, ajustando o sal. Adicione o arroz lavado, misture bem e deixe cozinhar em fogo baixo, tampado, até que o arroz esteja macio e absorva todo o líquido. Sirva como acompanhamento ou prato principal, com carne ou legumes."
+        },
+        {
+          "titulo": "Cuscuz de Milho com Legumes",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "2 xícaras de cuscuz de milho",
+            "1 xícara de caldo de legumes",
+            "1 cenoura ralada",
+            "1 xícara de ervilhas",
+            "1/2 pimentão vermelho picado",
+            "1 cebola pequena picada",
+            "2 colheres de sopa de azeite de oliva",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "Este cuscuz é uma receita versátil e nutritiva. Hidrate o cuscuz no caldo de legumes quente por 10 minutos, soltando os grãos com um garfo. Em uma frigideira, aqueça o azeite e refogue a cebola, a cenoura, as ervilhas e o pimentão até ficarem macios. Misture os legumes ao cuscuz, tempere com sal e pimenta e sirva como acompanhamento."
+        },
+        {
+          "titulo": "Bobotie (Torta de Carne Sul-Africana)",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 6,
+          "dificuldade": 4,
+          "ingredientes": [
+            "500g de carne moída",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1 fatia de pão embebida em leite",
+            "2 colheres de sopa de curry em pó",
+            "2 colheres de sopa de passas",
+            "3 ovos",
+            "1 xícara de leite",
+            "Sal e pimenta a gosto",
+            "Folhas de louro para decorar"
+          ],
+          "modo_preparo": "O Bobotie é um prato emblemático da África do Sul, combinando sabores doces e salgados. Refogue a cebola e o alho até dourar. Adicione a carne moída e o curry, cozinhando até a carne dourar. Esprema o excesso de leite do pão e misture-o à carne, junto com as passas. Transfira a mistura para uma assadeira untada. Bata os ovos com o leite, tempere com sal e despeje por cima da carne. Decore com folhas de louro e asse em forno preaquecido a 180°C por 30 minutos ou até dourar. Sirva quente."
+        },
+        {
+          "titulo": "Moamba de Galinha",
+          "tempo_preparo": "1 hora e 30 minutos",
+          "porcoes": 6,
+          "dificuldade": 4,
+          "ingredientes": [
+            "1 frango inteiro cortado em pedaços",
+            "2 cebolas picadas",
+            "4 tomates picados",
+            "1 xícara de quiabo cortado",
+            "200ml de molho de dendê",
+            "1 colher de chá de pimenta",
+            "Sal a gosto"
+          ],
+          "modo_preparo": "A Moamba é um prato tradicional de Angola, rico e aromático. Tempere o frango com sal e pimenta e doure os pedaços em uma panela grande. Adicione as cebolas e os tomates, cozinhando até que formem um molho espesso. Acrescente o quiabo e o molho de dendê, misturando bem. Cozinhe em fogo baixo por cerca de 1 hora, mexendo ocasionalmente. Sirva com arroz branco ou funge."
+        },
+        {
+          "titulo": "Fufu (Purê de Inhame)",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "4 inhames médios descascados",
+            "Água para cozinhar",
+            "Sal a gosto"
+          ],
+          "modo_preparo": "O Fufu é um acompanhamento tradicional na África Ocidental, conhecido por sua textura macia. Cozinhe os inhames em água com sal até ficarem macios. Escorra e amasse até formar um purê liso. Se necessário, adicione um pouco da água do cozimento para ajustar a consistência. Sirva quente com sopas ou ensopados."
+        },
+        {
+          "titulo": "Akara (Bolinho de Feijão)",
+          "tempo_preparo": "1 hora",
+          "porcoes": 6,
+          "dificuldade": 4,
+          "ingredientes": [
+            "2 xícaras de feijão-fradinho",
+            "1 cebola média picada",
+            "1 pimenta malagueta picada",
+            "Sal a gosto",
+            "Óleo para fritar"
+          ],
+          "modo_preparo": "O Akara é um bolinho de feijão frito popular na Nigéria e em outras regiões da África Ocidental. Deixe o feijão de molho em água por 1 hora e retire as cascas esfregando os grãos entre as mãos. Bata o feijão em um processador com a cebola, a pimenta e o sal até obter uma massa homogênea. Modele bolinhos com a ajuda de duas colheres e frite em óleo quente até dourar. Sirva quente como aperitivo ou acompanhamento."
+        }
+      ]
+    }
+
+
+
+    ,
+
+
+    {
+      "numero": 12,
+      "titulo": "Culinária Americana",
+      "descricao": "A culinária americana é um reflexo de sua diversidade cultural, mesclando pratos clássicos que marcaram a história do país com criações contemporâneas que destacam a criatividade de seus chefs. De confortáveis hambúrgueres a pratos regionais sofisticados, ela encanta por sua versatilidade e intensidade de sabores. Neste capítulo, você encontrará receitas que celebram a essência dos Estados Unidos, explorando pratos que vão do sul cheio de alma às criações modernas das grandes metrópoles.",
+      "receitas": [
+        {
+          "titulo": "Hambúrguer Clássico",
+          "tempo_preparo": "40 minutos",
+          "porcoes": 4,
+          "dificuldade": 2,
+          "ingredientes": [
+            "500g de carne moída (mistura de acém e fraldinha)",
+            "4 pães de hambúrguer",
+            "4 fatias de queijo cheddar",
+            "Folhas de alface",
+            "Rodelas de tomate",
+            "Cebola caramelizada",
+            "Molho barbecue ou ketchup",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O hambúrguer é um ícone da culinária americana. Tempere a carne moída com sal e pimenta e modele 4 hambúrgueres. Grelhe em uma frigideira ou churrasqueira, virando uma vez, até atingir o ponto desejado. No último minuto, coloque uma fatia de queijo cheddar sobre cada hambúrguer para derreter. Torre os pães levemente e monte os hambúrgueres com alface, tomate, cebola caramelizada e o molho de sua escolha. Sirva com batatas fritas."
+        },
+        {
+          "titulo": "Mac and Cheese",
+          "tempo_preparo": "50 minutos",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "300g de macarrão tipo cotovelo",
+            "2 colheres de sopa de manteiga",
+            "2 colheres de sopa de farinha de trigo",
+            "2 xícaras de leite",
+            "200g de queijo cheddar ralado",
+            "50g de queijo parmesão ralado",
+            "Pitada de noz-moscada",
+            "Sal e pimenta a gosto"
+          ],
+          "modo_preparo": "O Mac and Cheese é um clássico reconfortante. Cozinhe o macarrão até ficar al dente e reserve. Em uma panela, derreta a manteiga e adicione a farinha, mexendo por 2 minutos. Acrescente o leite aos poucos, mexendo constantemente, até formar um creme liso. Adicione os queijos, misture até derreter e tempere com noz-moscada, sal e pimenta. Misture o macarrão ao molho, transfira para uma travessa e leve ao forno para gratinar até dourar."
+        },
+        {
+          "titulo": "Buffalo Wings",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "dificuldade": 3,
+          "ingredientes": [
+            "1kg de asas de frango",
+            "1/2 xícara de molho de pimenta",
+            "1/4 de xícara de manteiga derretida",
+            "1 colher de sopa de vinagre",
+            "1 colher de chá de alho em pó",
+            "Sal e pimenta a gosto",
+            "Molho ranch para acompanhar"
+          ],
+          "modo_preparo": "As Buffalo Wings são asas de frango apimentadas, perfeitas para compartilhar. Tempere as asas com sal e pimenta e asse em forno preaquecido a 200°C por 40 minutos, virando na metade do tempo. Em uma tigela, misture o molho de pimenta, a manteiga, o vinagre e o alho em pó. Passe as asas no molho quente assim que saírem do forno e sirva com molho ranch e palitos de aipo."
+        },
+        {
+          "titulo": "Apple Pie",
+          "tempo_preparo": "2 horas",
+          "porcoes": 8,
+          "dificuldade": 4,
+          "ingredientes": [
+            "2 discos de massa para torta",
+            "6 maçãs descascadas e fatiadas",
+            "1/2 xícara de açúcar",
+            "1/4 de xícara de açúcar mascavo",
+            "2 colheres de sopa de farinha de trigo",
+            "1 colher de chá de canela",
+            "1 pitada de noz-moscada",
+            "1 colher de sopa de manteiga",
+            "1 ovo batido para pincelar"
+          ],
+          "modo_preparo": "A Apple Pie é a sobremesa clássica americana. Em uma tigela, misture as maçãs com os açúcares, a farinha, a canela e a noz-moscada. Forre uma forma com um disco de massa e recheie com a mistura de maçãs. Espalhe pedaços de manteiga sobre o recheio e cubra com o outro disco de massa, selando bem as bordas. Pincele com ovo batido e faça pequenos cortes no topo para liberar o vapor. Asse em forno preaquecido a 180°C por 50 minutos ou até dourar."
+        },
+        {
+          "titulo": "Clam Chowder",
+          "tempo_preparo": "1 hora",
+          "porcoes": 6,
+          "dificuldade": 3,
+          "ingredientes": [
+            "300g de amêijoas frescas ou enlatadas",
+            "2 batatas descascadas e em cubos",
+            "1 cebola picada",
+            "2 talos de aipo picados",
+            "2 colheres de sopa de manteiga",
+            "2 colheres de sopa de farinha de trigo",
+            "3 xícaras de leite",
+            "1 xícara de caldo de frango",
+            "Sal, pimenta e tomilho a gosto"
+          ],
+          "modo_preparo": "A Clam Chowder é uma sopa cremosa e reconfortante, típica da Nova Inglaterra. Em uma panela, derreta a manteiga e refogue a cebola e o aipo até ficarem macios. Adicione a farinha e mexa por 2 minutos. Acrescente o leite e o caldo de frango, mexendo até engrossar. Adicione as batatas e cozinhe até ficarem macias. Por fim, adicione as amêijoas e tempere com sal, pimenta e tomilho. Sirva quente, acompanhado de pão."
+        },
+        {
+          "titulo": "Cheesecake de Nova York",
+          "tempo_preparo": "3 horas (incluindo resfriamento)",
+          "porcoes": 10,
+          "dificuldade": 4,
+          "ingredientes": [
+            "200g de biscoitos triturados",
+            "100g de manteiga derretida",
+            "600g de cream cheese",
+            "1 xícara de açúcar",
+            "3 ovos",
+            "1 colher de chá de essência de baunilha",
+            "1/2 xícara de creme de leite fresco",
+            "Geleia de frutas vermelhas para cobertura"
+          ],
+          "modo_preparo": "O Cheesecake de Nova York é uma sobremesa cremosa e sofisticada. Misture os biscoitos triturados com a manteiga derretida e pressione no fundo de uma forma de aro removível. Asse por 10 minutos em forno preaquecido a 180°C. Bata o cream cheese com o açúcar, os ovos, a baunilha e o creme de leite até obter um creme homogêneo. Despeje sobre a base de biscoitos e asse em banho-maria por 1 hora. Deixe esfriar completamente e cubra com geleia de frutas vermelhas antes de servir."
+        }
+      ]
+    }
+
+  ]
+}

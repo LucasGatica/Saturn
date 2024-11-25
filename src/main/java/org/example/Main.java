@@ -8,8 +8,8 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        String jsonFileName = "dados.json"; // Nome do arquivo JSON nos recursos
-        String outputPdfPath = "ebooeek.pdf"; // Caminho para o PDF de saída
+        String jsonFileName = "novo.json"; // Nome do arquivo JSON nos recursos
+        String outputPdfPath = "saboresdomundo.pdf"; // Caminho para o PDF de saída
 
         try {
             // Ler os dados do JSON
