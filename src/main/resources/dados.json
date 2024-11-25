@@ -1,0 +1,199 @@
+{
+  "titulo": "Culinária Inteernacional: Sabores do Mundo",
+  "autor": "Chef Ana Pereira",
+  "conteudo": "Este livro explora a diversidade da culinária internacional, trazendo receitas autênticas e deliciosas de diferentes países. Aprenda técnicas culinárias e descubra novos sabores que irão enriquecer suas habilidades na cozinha.",
+  "capitulos": [
+    {
+      "numero": 1,
+      "titulo": "Culinária Francesa",
+      "descricao": "A culinária francesa é conhecida por sua elegância e sabor refinado. Neste capítulo, exploraremos pratos clássicos que representam o melhor da gastronomia francesa.",
+      "receitas": [
+        {
+          "titulo": "Coq au Vin",
+          "tempo_preparo": "2 horas",
+          "porcoes": 4,
+          "ingredientes": [
+            "1 frango inteiro cortado em pedaços",
+            "200g de bacon em cubos",
+            "1 garrafa de vinho tinto",
+            "2 cenouras fatiadas",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "200g de cogumelos",
+            "Tomilho, sal e pimenta a gosto"
+          ],
+          "modo_preparo": "Em uma panela grande, frite o bacon até dourar. Adicione o frango e doure todos os lados. Acrescente a cebola, o alho, as cenouras e refogue por alguns minutos. Despeje o vinho tinto, adicione o tomilho e tempere com sal e pimenta. Cozinhe em fogo baixo por 1 hora e 30 minutos. Adicione os cogumelos e cozinhe por mais 15 minutos. Sirva quente."
+        },
+        {
+          "titulo": "Quiche Lorraine",
+          "tempo_preparo": "1 hora",
+          "porcoes": 6,
+          "ingredientes": [
+            "1 massa brisée",
+            "200g de bacon em cubos",
+            "3 ovos",
+            "200ml de creme de leite",
+            "150g de queijo gruyère ralado",
+            "Noz-moscada, sal e pimenta a gosto"
+          ],
+          "modo_preparo": "Pré-aqueça o forno a 180°C. Forre uma forma com a massa brisée. Frite o bacon até ficar crocante. Em uma tigela, bata os ovos, o creme de leite, o queijo e tempere com noz-moscada, sal e pimenta. Distribua o bacon sobre a massa e despeje a mistura de ovos. Asse por 35-40 minutos até dourar. Sirva morno."
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "Culinária Italiana",
+      "descricao": "A cozinha italiana é rica em tradição e ingredientes frescos. Descubra receitas clássicas que trazem o verdadeiro sabor da Itália.",
+      "receitas": [
+        {
+          "titulo": "Risoto de Funghi",
+          "tempo_preparo": "45 minutos",
+          "porcoes": 4,
+          "ingredientes": [
+            "2 xícaras de arroz arbóreo",
+            "200g de funghi secchi",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1/2 xícara de vinho branco",
+            "1,5 litros de caldo de legumes",
+            "50g de manteiga",
+            "50g de queijo parmesão ralado",
+            "Azeite, sal e pimenta a gosto"
+          ],
+          "modo_preparo": "Hidrate o funghi em água morna por 20 minutos e reserve. Em uma panela, refogue a cebola e o alho no azeite. Adicione o arroz e refogue por 2 minutos. Acrescente o vinho branco e mexa até evaporar. Adicione o funghi e, aos poucos, o caldo de legumes, mexendo sempre. Quando o arroz estiver al dente, desligue o fogo, adicione a manteiga e o parmesão. Misture bem e sirva imediatamente."
+        },
+        {
+          "titulo": "Tiramisu",
+          "tempo_preparo": "4 horas (incluindo resfriamento)",
+          "porcoes": 6,
+          "ingredientes": [
+            "300g de biscoito tipo champagne",
+            "4 ovos (gemas e claras separadas)",
+            "100g de açúcar",
+            "500g de mascarpone",
+            "1 xícara de café forte",
+            "2 colheres de sopa de licor de amêndoas",
+            "Cacau em pó para polvilhar"
+          ],
+          "modo_preparo": "Bata as gemas com o açúcar até formar um creme claro. Adicione o mascarpone e misture bem. Bata as claras em neve e incorpore delicadamente ao creme. Misture o café com o licor. Molhe os biscoitos na mistura de café e disponha uma camada em uma travessa. Alterne camadas de biscoitos e creme, finalizando com o creme. Leve à geladeira por pelo menos 3 horas. Antes de servir, polvilhe com cacau em pó."
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "titulo": "Culinária Japonesa",
+      "descricao": "A culinária japonesa é famosa por sua estética e sabores delicados. Aprenda a preparar pratos tradicionais que refletem a cultura japonesa.",
+      "receitas": [
+        {
+          "titulo": "Sushi de Salmão",
+          "tempo_preparo": "1 hora",
+          "porcoes": 4,
+          "ingredientes": [
+            "500g de arroz japonês",
+            "600ml de água",
+            "100ml de vinagre de arroz",
+            "2 colheres de sopa de açúcar",
+            "1 colher de chá de sal",
+            "300g de salmão fresco",
+            "Folhas de alga nori",
+            "Molho shoyu e wasabi para servir"
+          ],
+          "modo_preparo": "Lave o arroz até a água sair clara. Cozinhe o arroz com a água. Misture o vinagre, o açúcar e o sal, aquecendo até dissolver. Espalhe o arroz em uma travessa e regue com a mistura de vinagre, mexendo para esfriar. Sobre uma esteira de sushi, coloque a alga nori, espalhe o arroz e disponha tiras de salmão. Enrole firmemente e corte em fatias. Sirva com shoyu e wasabi."
+        },
+        {
+          "titulo": "Tempurá de Legumes",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "ingredientes": [
+            "1 cenoura em fatias finas",
+            "1 batata-doce em rodelas finas",
+            "100g de vagem",
+            "1 cebola em fatias",
+            "1 gema de ovo",
+            "1 xícara de água gelada",
+            "1 xícara de farinha de trigo",
+            "Óleo para fritar",
+            "Molho tentsuyu para acompanhar"
+          ],
+          "modo_preparo": "Em uma tigela, misture a gema e a água gelada. Adicione a farinha aos poucos, mexendo levemente (a massa deve ficar com grumos). Aqueça o óleo em uma panela funda. Passe os legumes na massa e frite até ficarem dourados. Escorra em papel absorvente. Sirva quente com molho tentsuyu."
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "titulo": "Culinária Mexicana",
+      "descricao": "Conhecida por seus sabores intensos e picantes, a culinária mexicana oferece pratos vibrantes. Experimente receitas que são verdadeiras festas para o paladar.",
+      "receitas": [
+        {
+          "titulo": "Guacamole",
+          "tempo_preparo": "15 minutos",
+          "porcoes": 4,
+          "ingredientes": [
+            "2 abacates maduros",
+            "1 tomate picado",
+            "1/2 cebola roxa picada",
+            "Suco de 1 limão",
+            "Coentro picado a gosto",
+            "Sal e pimenta a gosto",
+            "Pimenta jalapeño picada (opcional)"
+          ],
+          "modo_preparo": "Amasse a polpa dos abacates com um garfo. Adicione o tomate, a cebola, o suco de limão, o coentro e tempere com sal e pimenta. Se desejar, acrescente a pimenta jalapeño. Misture bem e sirva com tortillas."
+        },
+        {
+          "titulo": "Tacos de Carne",
+          "tempo_preparo": "30 minutos",
+          "porcoes": 4,
+          "ingredientes": [
+            "500g de carne moída",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "1 pimentão vermelho picado",
+            "1 pacote de tempero para tacos",
+            "Tortillas de milho",
+            "Alface picada",
+            "Queijo cheddar ralado",
+            "Sour cream e salsa para servir"
+          ],
+          "modo_preparo": "Refogue a cebola e o alho em uma frigideira. Adicione a carne moída e cozinhe até dourar. Acrescente o pimentão e o tempero para tacos, cozinhando por mais alguns minutos. Aqueça as tortillas e recheie com a carne, alface e queijo. Sirva com sour cream e salsa."
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "titulo": "Culinária Brasileira",
+      "descricao": "A culinária brasileira é rica e diversificada, refletindo influências indígenas, africanas e europeias. Desfrute de receitas típicas que são a cara do Brasil.",
+      "receitas": [
+        {
+          "titulo": "Feijoada",
+          "tempo_preparo": "3 horas",
+          "porcoes": 6,
+          "ingredientes": [
+            "500g de feijão preto",
+            "200g de carne seca",
+            "200g de costela suína salgada",
+            "200g de paio em rodelas",
+            "200g de linguiça calabresa em rodelas",
+            "1 cebola picada",
+            "4 dentes de alho picados",
+            "Folhas de louro",
+            "Sal e pimenta a gosto",
+            "Laranja e couve para acompanhar"
+          ],
+          "modo_preparo": "Deixe as carnes salgadas de molho em água por 12 horas, trocando a água várias vezes. Cozinhe o feijão com as carnes dessalgadas, o louro e água suficiente para cobrir. Em uma frigideira, refogue a cebola e o alho, e adicione à feijoada. Cozinhe até que as carnes e o feijão estejam macios. Tempere com sal e pimenta se necessário. Sirva com arroz, couve refogada e fatias de laranja."
+        },
+        {
+          "titulo": "Brigadeiro",
+          "tempo_preparo": "20 minutos",
+          "porcoes": 20,
+          "ingredientes": [
+            "1 lata de leite condensado",
+            "3 colheres de sopa de chocolate em pó",
+            "1 colher de sopa de manteiga",
+            "Chocolate granulado para enrolar"
+          ],
+          "modo_preparo": "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga. Cozinhe em fogo médio, mexendo sempre, até desgrudar do fundo da panela. Despeje em um prato untado e deixe esfriar. Unte as mãos com manteiga, faça bolinhas e passe no granulado. Sirva em forminhas de papel."
+        }
+      ]
+    }
+  ]
+}
