@@ -1,5 +1,13 @@
 {
-  "notebooks": [],
+  "notebooks": [
+    {
+      "id": "n1kld4n73mnptd8f6zsele",
+      "title": "tet",
+      "description": "tet",
+      "color": "bg-blue-300",
+      "createdAt": 1765397247611
+    }
+  ],
   "todos": [],
   "version": 1
 }
